@@ -1,0 +1,41 @@
+[
+  {
+    "name": "rectangle",
+    "shape": {
+      "type": "Rectangle",
+      "length": 12,
+      "width": 6,
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "name": "circle",
+    "shape": {
+      "type": "Circle",
+      "radius": 5,
+      "x": 25,
+      "y": 9
+    }
+  },
+  {
+    "name": "triangle",
+    "shape": {
+      "type": "Triangle",
+      "points": [
+        [
+          36,
+          3
+        ],
+        [
+          45,
+          18
+        ],
+        [
+          32,
+          18
+        ]
+      ]
+    }
+  }
+]
